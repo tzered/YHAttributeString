@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'YHAttributeString_Example' do
+  pod 'YHAttributeString', :path => '../'
+
+  target 'YHAttributeString_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
