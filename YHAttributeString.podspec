@@ -7,8 +7,8 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'YHMutableAttributedString'
-  s.version          = '0.1.0'
+  s.name             = 'YHAttributeString'
+  s.version          = '0.1.1'
   s.summary          = 'A short description of YHAttributeString.'
 
 # This description is used to generate tags and improve search results.
@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = 'NSMutableAttributedString extension'
 
-  s.homepage         = 'https://github.com/Linningning/YHAttributeString'
+  s.homepage         = 'https://github.com/MaiyaT/YHAttributeString.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Linningning' => '763465697@qq.com' }
