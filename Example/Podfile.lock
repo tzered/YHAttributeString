@@ -1,0 +1,16 @@
+PODS:
+  - YHAttributeString (0.1.0)
+
+DEPENDENCIES:
+  - YHAttributeString (from `../`)
+
+EXTERNAL SOURCES:
+  YHAttributeString:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YHAttributeString: d69e2f61647dd09b448090382741b255be8d5f20
+
+PODFILE CHECKSUM: 8b12c6a0e23cd75c26e35e78f0fda710e90b9b2b
+
+COCOAPODS: 1.7.5
